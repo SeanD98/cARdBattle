@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5438900029218683827
+  m_GuidHigh: 11338665651040755373
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5332104792803380197
+      m_GuidHigh: 185310804734996668
+    m_SerializedTextureGuid:
+      m_GuidLow: 3045804918016700000
+      m_GuidHigh: 12263723139385508072
+    m_Size: {x: 0.254, y: 0.16891992}
+    m_SpecifySize: 1
+    m_Name: Rafflesia
+    m_Texture: {fileID: 2800000, guid: 8185ee60df6f2a44e8c0cf22387f31aa, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4688767676970561261
+      m_GuidHigh: 9713720137873368247
+    m_SerializedTextureGuid:
+      m_GuidLow: 16430241910255274575
+      m_GuidHigh: 3143750354108030859
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Logo
+    m_Texture: {fileID: 2800000, guid: 5a804a4ff1f7e4038b1f1e6f4ad8a02b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5602505921028117032
+      m_GuidHigh: 208412801924047543
+    m_SerializedTextureGuid:
+      m_GuidLow: 288924497207985411
+      m_GuidHigh: 4143232447317295274
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: QRCode
+    m_Texture: {fileID: 2800000, guid: a6fd8503774c0402aa403884f5b77f39, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4960368325593112834
+      m_GuidHigh: 16527817554821499055
+    m_SerializedTextureGuid:
+      m_GuidLow: 2784354874557070578
+      m_GuidHigh: 772746328411571737
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: testone
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4875798304035004452
+      m_GuidHigh: 15869451622355447687
+    m_SerializedTextureGuid:
+      m_GuidLow: 1519063088866265657
+      m_GuidHigh: 9306457189610781080
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: testtwo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4833646052576309016
+      m_GuidHigh: 4158802348939282832
+    m_SerializedTextureGuid:
+      m_GuidLow: 12237655814249169253
+      m_GuidHigh: 12418868004553092715
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: testthree
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5277300349314422312
+      m_GuidHigh: 8551075038048064655
+    m_SerializedTextureGuid:
+      m_GuidLow: 2716836473974599373
+      m_GuidHigh: 14956657329761458137
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: testfour
+    m_Texture: {fileID: 0}

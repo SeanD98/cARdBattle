@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MultipleImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4771487299635088638
+  m_GuidHigh: 16366741093305614720
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5568110900466168963
+      m_GuidHigh: 3625019215694753170
+    m_SerializedTextureGuid:
+      m_GuidLow: 15286486760557138301
+      m_GuidHigh: 16530552811202298008
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: AROne
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4966355001229920642
+      m_GuidHigh: 15762174387371238070
+    m_SerializedTextureGuid:
+      m_GuidLow: 2987063251969314817
+      m_GuidHigh: 18152848099262361496
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: ARTwo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5515103104465745770
+      m_GuidHigh: 13566141102488949418
+    m_SerializedTextureGuid:
+      m_GuidLow: 8751845134332120369
+      m_GuidHigh: 14726573070946000379
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: ARThree
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5587560694306727746
+      m_GuidHigh: 8365760223776723118
+    m_SerializedTextureGuid:
+      m_GuidLow: 17484156779160574151
+      m_GuidHigh: 13752140476569529241
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: ARFour
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5275621619980524250
+      m_GuidHigh: 14418888498458764426
+    m_SerializedTextureGuid:
+      m_GuidLow: 7346655774807306506
+      m_GuidHigh: 14957010926032144507
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: EnemyAROne
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5174942539255721115
+      m_GuidHigh: 5678100422902260608
+    m_SerializedTextureGuid:
+      m_GuidLow: 3559049959138392942
+      m_GuidHigh: 9329347470239880027
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: EnemyARTwo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5617156234964186694
+      m_GuidHigh: 16062968283345327294
+    m_SerializedTextureGuid:
+      m_GuidLow: 7058508303890339177
+      m_GuidHigh: 6028633066091542811
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: EnemyARThree
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5193024121939271739
+      m_GuidHigh: 2067645251820733593
+    m_SerializedTextureGuid:
+      m_GuidLow: 6337833456563393880
+      m_GuidHigh: 2901511633372676394
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: EnemyARFour
+    m_Texture: {fileID: 0}
